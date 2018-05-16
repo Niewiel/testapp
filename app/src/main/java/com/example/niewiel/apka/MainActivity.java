@@ -38,7 +38,6 @@ public class MainActivity extends AppCompatActivity {
             return "Test{" +
                     "field1='" + field1 + '\'' +
                     ", field2='" + field2 + '\'' +
-                    ", id=" + id +
                     '}';
         }
 
